@@ -24,18 +24,21 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Program:
 ### Gram-Schmidt Method
 ```
-
-
-
-
-
-
-
+'''Developed by D.Devadhaarini
+Reg no.: 212223230040'''
+num=eval(input())
+for i in range(len(num)):
+    low=i
+    for j in range(i+1,len(num)):
+        if num[j]<num[low]:
+            low=j
+    num[i],num[low]=num[low],num[i]
+print(num)
 ```
 
 ## Output
 ```
-
+![Screenshot 2024-04-01 134706](https://github.com/Devadhaarini/QRdecomposition/assets/145796552/454f2347-6a8b-46fe-97a8-c86319a48803)
 ```
 
 ## Result
