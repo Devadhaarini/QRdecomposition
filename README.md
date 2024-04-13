@@ -38,7 +38,8 @@ print(num)
 
 ## Output
 ```
-![Screenshot 2024-04-01 134706](https://github.com/Devadhaarini/QRdecomposition/assets/145796552/454f2347-6a8b-46fe-97a8-c86319a48803)
+![image](https://github.com/Devadhaarini/QRdecomposition/assets/145796552/8c9cad6b-e7ca-4bce-bab5-09cfca6d33bf)
+
 ```
 
 ## Result
